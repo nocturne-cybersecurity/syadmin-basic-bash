@@ -1,0 +1,1 @@
+# syadmin-basic-bash
